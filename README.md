@@ -28,3 +28,8 @@ destroy gif mp4
 不添加参数，直接执行 <code>destroy</code> 不会损坏任何文件
 ### 损坏逻辑
 脚本会在指定路径创建一个或多个大小为 20B 的文件，用于替换符合条件的源文件（.gif .mp4 等）
+
+![](./destroy_cli.png)
+
+![](./destroy_result.png)
+
