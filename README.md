@@ -1,5 +1,6 @@
 # English Introduction
-**This a command line tool written by Swift to test how does application deal with damaged resource files.**
+**This a command line tool written by Swift to test how does application deal with damaged resource files.
+<br>(simulate image, video download not completed circumstances)**
 ### How to Use
 Assuming that you have placed <code>destroy.swift</code> at <code>/Users/kyxu/Dev/destroy.swift</code>, your resource folder path is <code>/Users/kyxu/desktop/res</code>, and you want to damage the gif and mp4 files in the folder:
 <pre><code>cd /Users/kyxu/desktop/res
@@ -15,7 +16,8 @@ The script would creates one or more files (size 20B) on the specified path for 
 
 ----
 # 中文介绍
-**这是一个使用 Swift 编写的命令行工具，用于测试应用如何应对损坏的资源文件。**
+**这是一个使用 Swift 编写的命令行工具，用于测试应用如何应对损坏的资源文件
+<br>（模拟图片、视频下载未完成等情况）**
 ### 如何使用
 假设你已经将仓库中的 <code>destroy.swift</code> 放置在 <code>/Users/kyxu/Dev/destroy.swift</code>，你的资源文件夹路径是 <code>/Users/kyxu/desktop/res</code>，你希望损坏文件夹中的 gif 和 mp4 文件：
 <pre><code>cd /Users/kyxu/desktop/res
